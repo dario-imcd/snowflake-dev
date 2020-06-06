@@ -1,0 +1,2 @@
+use role DEV_SYSADMIN;
+list @INT_STG_LANDING_ZONE;
